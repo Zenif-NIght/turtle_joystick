@@ -1,0 +1,5 @@
+# main repos
+- git: {local-name: turtle/joystick, 
+        uri: 'git@bitbucket.org:gdroge/turtle_joy.git', 
+        version: master}
+
